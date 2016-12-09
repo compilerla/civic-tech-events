@@ -1,7 +1,46 @@
 # civic-tech-events
 Ongoing list of civic tech or gov tech events. Inlcudes previous and past events, personal focus on data and data standards. Please submit a pull request! Hope to turn this into a small app that allows for subsciption to updates and submission deadlines for conferences.
 
+
+
+
+
+
+            
+
 ##2017
+
+###November
+
++ [CityAge: Los Angeles](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fcomingsoon&i=9&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q)
+
+###October
+
++ [CityAge: Sydney, Australia](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Faustralia&i=8&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q)
+
+###September
+
++ [CityAge: Toronto](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Ftoronto&i=7&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q)
+
+###June
+
++ [CityAge: The New American City](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fcomingsoon&i=6&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Washington, DC
+
+###May
+
++ [CityAge: Hamilton](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fhamilton%2F&i=5&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Hamilton, ON
+
+###April
+
++ [CityAge: San Diego](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fsandiego%2F&i=4&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q)
+
+###March 
+
++ [The Data Effect: Ottawa](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fdataeffect%2F&i=3&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q)Ottawa
+
+###February
+
++ [CityAge: Build the Future](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fflorida&i=2&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Fort Lauderdale, FL 
 
 ###January
 
