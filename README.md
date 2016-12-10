@@ -61,6 +61,7 @@ Ongoing list of civic tech or gov tech events. Inlcudes previous and past events
 + [Milken California Summit](http://www.milkeninstitute.org/events/conferences/summit/california-summit-2016/) Los Angeles, CA
 + [Next:Economy](http://conferences.oreilly.com/nextcon/economy-us) San Francisco, CA
 + [GovTech Social Unconference](https://www.eventbrite.com/e/govtech-social-unconference-denver-tickets-26355897198) Denver, CO
++ [International Open Data Conference (IODC)](http://opendatacon.org/) Madrid, Spain
 
 ###September
 
