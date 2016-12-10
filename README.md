@@ -8,6 +8,8 @@ Ongoing list of civic tech or gov tech events. Inlcudes previous and past events
 
 + [CityAge: Los Angeles](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fcomingsoon&i=9&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Los Angeles, CA
 
++ [Open Data Science (West)](https://www.odsc.com/boston) Santa Clara
+
 ###October
 
 + [CityAge: Sydney, Australia](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Faustralia&i=8&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Sydney, Australia
@@ -23,6 +25,8 @@ Ongoing list of civic tech or gov tech events. Inlcudes previous and past events
 ###May
 
 + [CityAge: Hamilton](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fhamilton%2F&i=5&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Hamilton, Canada
+
++ [Open Data Science Conference (East)](https://www.odsc.com/boston) Boston
 
 ###April
 
