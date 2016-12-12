@@ -1,5 +1,5 @@
 # civic-tech-events
-Ongoing list of civic tech or gov tech events. Inlcudes previous and past events, personal focus on data and data standards. Please submit a pull request! Hope to turn this into a small app that allows for subsciption to updates and submission deadlines for conferences.
+Ongoing list of civic tech or gov tech events. Includes previous and past events, personal focus on data and data standards. Please submit a pull request! Hope to turn this into a small app that allows for subsciption to updates and submission deadlines for conferences.
             
 
 ##2017
