@@ -16,7 +16,11 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ###September
 
-+ [CityAge: Toronto](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Ftoronto&i=7&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Toronto, CA
++ [CityAge: Toronto](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Ftoronto&i=7&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Toronto, Canada
+
+###August
+
++ [KDD](http://www.kdd.org/kdd2017/) Halifax, Nova Scotia - Canada
 
 ###June
 
