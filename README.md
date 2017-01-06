@@ -50,6 +50,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + ~~[New Year's Local Government Vendor Review & Networking EXTRAVAGANZA!!](https://www.mmanc.org/event/new-years-local-government-vendor-review-networking-extravaganza/) Santa Barbara, CA _[Vendor Registration](https://www.eventbrite.com/e/vendor-registration-2017-new-years-local-government-vendor-review-networking-extravaganza-tickets-29752244765)_~~ Canceled
 + [Southern California Regional HHS Open DataFest](http://go.stewardsofchange.com/Southern-California-Regional-HHS-DataFest_Event-Registration-LP.html) Los Angeles, CA
 + [#PROTECTCLIMATEDATA @UCLA](http://www.climatedataprotection.net/) Los Angeles, CA
++ [UN World Data Forum](http://undataforum.org/) Cape Town, South Africa
 + [2017 Winter Innovation Summit](http://www.innovationsummit2017.com/) Salt Lake City, UT _Key themes include social impact financing, the role of data and evidence, impact investing, public-private partnerships, impact measurement, and research-based best practices in social services._
 
 ##2016
