@@ -35,6 +35,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ###April
 
 + [CityAge: San Diego](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fsandiego%2F&i=4&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) San Diego, CA
++ 24 - 25 [OpenViz Conf](https://openvisconf.com/) Boston, MA
 
 ###March 
 
