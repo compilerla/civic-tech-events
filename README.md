@@ -28,23 +28,27 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ###May
 
-+ [CityAge: Hamilton](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fhamilton%2F&i=5&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Hamilton, Canada
-
-+ [Open Data Science Conference (East)](https://www.odsc.com/boston) Boston
++ 2 - 3 [csv,conf](https://csvconf.com/) Portland, OR
++ 3 - 5 [Open Data Science Conference (East)](https://www.odsc.com/boston) Boston
++ 23 - 24 [CityAge: Hamilton](http://cityage.org/hamilton/) Hamilton, Canada
 
 ###April
 
-+ [CityAge: San Diego](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fsandiego%2F&i=4&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) San Diego, CA
++ 13 [The Data Effect: Ottawa](http://cityage.org/dataeffect/) Ottawa, Canada
 + 24 - 25 [OpenViz Conf](https://openvisconf.com/) Boston, MA
++ 25 - 26 [CityAge: San Diego](http://cityage.org/sandiego/) San Diego, CA
 
 ###March 
 
-+ [The Data Effect: Ottawa](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fdataeffect%2F&i=3&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Ottawa, Canada
++ 2 - 5 [National Institute for Computer-Assisted Reporting (NICAR)](http://ire.org/conferences/nicar2017/) Jacksonville, FL
++ 2 - 5 [Southern California Linux Expo (SCALE)](www.socallinuxexpo.org/scale/15x) _Open Data Track on Sunday_ Pasadena, CA
++ 4 [International Open Data Day](http://opendataday.org/) Everywhere! Look for an event near you
 
 ###February
 
 + [CityAge: Build the Future](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fflorida&i=2&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Fort Lauderdale, FL 
 + [Data on Purpose](http://www.ssirdata.org/) Stanford, CA
++ 27 [Let's Get Healthy California Innovation Conference](http://www.cvent.com/events/2017-health-innovation-conference/event-summary-e20ade65e36d49cdae537bac5b3ab36d.aspx) Sacramento, CA
 
 ###January
 
