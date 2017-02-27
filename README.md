@@ -46,6 +46,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ###February
 
++ 18 - 19 [DataRescueDC](https://datarefuge.github.io/datarescue-dc/) Washington, DC
 + [CityAge: Build the Future](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fflorida&i=2&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Fort Lauderdale, FL 
 + [Data on Purpose](http://www.ssirdata.org/) Stanford, CA
 + 27 [Let's Get Healthy California Innovation Conference](http://www.cvent.com/events/2017-health-innovation-conference/event-summary-e20ade65e36d49cdae537bac5b3ab36d.aspx) Sacramento, CA
