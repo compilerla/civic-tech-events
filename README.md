@@ -43,6 +43,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 2 - 5 [National Institute for Computer-Assisted Reporting (NICAR)](http://ire.org/conferences/nicar2017/) Jacksonville, FL
 + 2 - 5 [Southern California Linux Expo (SCALE)](www.socallinuxexpo.org/scale/15x) _Open Data Track on Sunday_ Pasadena, CA
 + 4 [International Open Data Day](http://opendataday.org/) Everywhere! Look for an event near you
++ 24 [DC Apps4Change Demo](https://www.eventbrite.com/e/dc-apps4change-demo-accessing-ideas-for-social-benefit-technology-apps-tickets-32075434488) Washington, DC
 
 ###February
 
