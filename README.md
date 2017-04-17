@@ -30,6 +30,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + 2 - 3 [csv,conf](https://csvconf.com/) Portland, OR
 + 3 - 5 [Open Data Science Conference (East)](https://www.odsc.com/boston) Boston
++ 17 - 19 [NNIP Partnership Meeting](http://www.neighborhoodindicators.org/activities/meetings) Baltimore, MD
 + 23 - 24 [CityAge: Hamilton](http://cityage.org/hamilton/) Hamilton, Canada
 
 ###April
