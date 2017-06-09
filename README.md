@@ -40,6 +40,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ###April
 
 + 13 [The Data Effect: Ottawa](http://cityage.org/dataeffect/) Ottawa, Canada
++ 22 [Arts Datathon](http://artsdatathon.org/) _Los Angeles_
 + 24 - 25 [OpenViz Conf](https://openvisconf.com/) Boston, MA
 + 25 - 26 [CityAge: San Diego](http://cityage.org/sandiego/) San Diego, CA
 
