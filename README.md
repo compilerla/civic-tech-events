@@ -6,31 +6,35 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ###November
 
-+ [CityAge: Los Angeles](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fcomingsoon&i=9&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Los Angeles, CA
-
-+ [Open Data Science (West)](https://www.odsc.com/boston) Santa Clara
++ 11 - 13 [OpenCon 2017](http://www.opencon2017.org/) _Berlin, Germany_
++ 22 - 23 [CityAge: Toronto](http://cityage.org/toronto) Toronto, Canada
++ 29 - 30 [CityAge: Build the Future](http://cityage.org/washington/) Washington, DC
 
 ###October
 
-+ [CityAge: Sydney, Australia](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Faustralia&i=8&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Sydney, Australia
++ 5 - 6 [CityAge: Los Angeles](http://cityage.org/los-angeles/) Los Angeles, CA
++ 13 - 14 [Brigade Congress] link tbd _Philadelphia, CA_
 
 ###September
 
-+ [CityAge: Toronto](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Ftoronto&i=7&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Toronto, Canada
++ National Day of Civic Hacking
++ 22 [ELGL Popups](http://elgl.org/elglpopups/) _Charlotte, NC; Kansas City, MO; Dallas, TX; and Portland, OR._
 
 ###August
-
-+ [KDD](http://www.kdd.org/kdd2017/) Halifax, Nova Scotia - Canada
++ 3 - 4 [SRCCON](https://srccon.org/) _Minneapolis, MN_
++ [KDD](http://www.kdd.org/kdd2017/) _Halifax, Nova Scotia - Canada_
 
 ###June
 
-+ [CityAge: The New American City](http://dmanalytics2.com/click?u=http%3A%2F%2Fcityage.org%2Fcomingsoon&i=6&d=_M515HtKRyKrTjX_4OUwJg&e=vyki.englert%40gmail.com&a=mkceAsllSIeijMWrv9Ew-Q) Washington, DC
++ 23 - 25 [Data Intelligence Conference](http://www.data-intelligence.ai/) _McLean, VA_
++ 8 - 9 [Personal Democracy Forum 2017](https://personaldemocracy.com/conference) _New York City, NY_
 
 ###May
 
 + 2 - 3 [csv,conf](https://csvconf.com/) Portland, OR
 + 3 - 5 [Open Data Science Conference (East)](https://www.odsc.com/boston) Boston
 + 17 - 19 [NNIP Partnership Meeting](http://www.neighborhoodindicators.org/activities/meetings) Baltimore, MD
++ 22 Transparency Camp AZ [Eventbrite](https://www.eventbrite.com/e/tcamp-az-tickets-33065756568#)[Twitter](https://twitter.com/hashtag/TCampAZ?src=hash) _Phoenix, AZ_
 + 23 - 24 [CityAge: Hamilton](http://cityage.org/hamilton/) Hamilton, Canada
 
 ###April
