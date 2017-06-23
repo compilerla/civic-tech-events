@@ -17,8 +17,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ###September
 
-+ National Day of Civic Hacking
 + 22 [ELGL Popups](http://elgl.org/elglpopups/) _Charlotte, NC; Kansas City, MO; Dallas, TX; and Portland, OR._
++ 23 National Day of Civic Hacking _multi site website tba_
++ 24 [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) _New York City, NY_
++ 28 - 29 [Data Science for Social Good Conference](https://dssg.uchicago.edu/data-science-for-social-good-conference-2017/) _Chicago, IL_
 
 ###August
 + 3 - 4 [SRCCON](https://srccon.org/) _Minneapolis, MN_
