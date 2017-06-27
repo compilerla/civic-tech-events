@@ -23,13 +23,15 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 28 - 29 [Data Science for Social Good Conference](https://dssg.uchicago.edu/data-science-for-social-good-conference-2017/) _Chicago, IL_
 
 ###August
+
 + 3 - 4 [SRCCON](https://srccon.org/) _Minneapolis, MN_
 + [KDD](http://www.kdd.org/kdd2017/) _Halifax, Nova Scotia - Canada_
 
 ###June
 
-+ 23 - 25 [Data Intelligence Conference](http://www.data-intelligence.ai/) _McLean, VA_
 + 8 - 9 [Personal Democracy Forum 2017](https://personaldemocracy.com/conference) _New York City, NY_
++ 23 - 25 [Data Intelligence Conference](http://www.data-intelligence.ai/) _McLean, VA_
++ 27 [OpenData.ch](https://opendata.ch/projects/conference-2017/) _Lucerne, Switzerland_
 
 ###May
 
