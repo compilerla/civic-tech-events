@@ -32,6 +32,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 8 - 9 [Personal Democracy Forum 2017](https://personaldemocracy.com/conference) _New York City, NY_
 + 23 - 25 [Data Intelligence Conference](http://www.data-intelligence.ai/) _McLean, VA_
 + 27 [OpenData.ch](https://opendata.ch/projects/conference-2017/) _Lucerne, Switzerland_
++ 27 [Legislative Data and Transparency Conference 2017](https://cha.house.gov/LDTC17) _Washington, DC_
 
 ###May
 
