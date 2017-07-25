@@ -27,6 +27,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 3 - 4 [SRCCON](https://srccon.org/) _Minneapolis, MN_
 + [KDD](http://www.kdd.org/kdd2017/) _Halifax, Nova Scotia - Canada_
 
+##July
+
++ 25 [Library of Congress: Collections As Data](http://digitalpreservation.gov/meetings/asdata/impact.html) [#AsData](https://twitter.com/hashtag/asdata) _Washington, DC_
+
 ###June
 
 + 8 - 9 [Personal Democracy Forum 2017](https://personaldemocracy.com/conference) _New York City, NY_
