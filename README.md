@@ -7,12 +7,13 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ###November
 
 + 11 - 13 [OpenCon 2017](http://www.opencon2017.org/) _Berlin, Germany_
-+ 22 - 23 [CityAge: Toronto](http://cityage.org/toronto) Toronto, Canada
-+ 29 - 30 [CityAge: Build the Future](http://cityage.org/washington/) Washington, DC
++ 22 - 23 [CityAge: Toronto](http://cityage.org/toronto) _Toronto, Canada_
++ 29 - 30 [CityAge: Build the Future](http://cityage.org/washington/) _Washington, DC_
 
 ###October
 
-+ 5 - 6 [CityAge: Los Angeles](http://cityage.org/los-angeles/) Los Angeles, CA
++ 5 - 6 [CityAge: Los Angeles](http://cityage.org/los-angeles/) _Los Angeles, CA_
++ 11 -12 [National Human Services Data Consortium (NHSDC) Conference](http://www.nhsdc.org/) _San Diego, CA_
 + 13 - 14 [Brigade Congress] link tbd _Philadelphia, CA_
 
 ###September
