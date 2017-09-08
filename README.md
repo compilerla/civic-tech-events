@@ -8,6 +8,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + 7-8 [Harvard Summit on Data Smart Government](http://datasmart.ash.harvard.edu/news/article/save-the-date-the-harvard-summit-on-data-smart-government-1090) _Boston, MA_
 + 11 - 13 [OpenCon 2017](http://www.opencon2017.org/) _Berlin, Germany_
++ 17 -19 [Data for Black Lives](http://d4bl.org/conference.html) _Boston, MA_
 + 22 - 23 [CityAge: Toronto](http://cityage.org/toronto) _Toronto, Canada_
 + 29 - 30 [CityAge: Build the Future](http://cityage.org/washington/) _Washington, DC_
 
