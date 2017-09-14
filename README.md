@@ -1,6 +1,10 @@
 # civic-tech-events
 Ongoing list of civic tech or gov tech events. Includes previous and past events, personal focus on data and data standards. Please submit a pull request! Hope to turn this into a small app that allows for subsciption to updates and submission deadlines for conferences.
             
+## 2018
+
+### May
++ 22-24 [Good Tech Fest](https://www.goodtechfest.com/) _Detroit, MI_ (RFP Closes 10/15/17) 
 
 ## 2017
 
