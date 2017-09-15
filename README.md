@@ -21,7 +21,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + 5 - 6 [CityAge: Los Angeles](http://cityage.org/los-angeles/) _Los Angeles, CA_
 + 11 -12 [National Human Services Data Consortium (NHSDC) Conference](http://www.nhsdc.org/) _San Diego, CA_
-+ 13 - 14 [Brigade Congress](http://brigadecongress.splashthat.com/) _Philadelphia, CA_
++ 13 - 14 [Brigade Congress](https://cfabrigade.splashthat.com/) _Philadelphia, CA_
 
 ### September
 
