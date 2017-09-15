@@ -25,8 +25,9 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### September
 
++ 10 - 16 [#CivicTechFest](http://civictechfest.org/) _Taipei, Taiwan_
 + 22 [ELGL Popups](http://elgl.org/elglpopups/) _Charlotte, NC; Kansas City, MO; Dallas, TX; and Portland, OR._
-+ 23 National Day of Civic Hacking _multi site website tba_
++ 23 [National Day of Civic Hacking](https://www.codeforamerica.org/events/national-day-of-civic-hacking-2017) _multi site, USA_
 + 24 [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) _New York City, NY_
 + 26 [Data Transparency 2017](https://www.eventbrite.com/e/data-transparency-2017-tickets-32659723111) _Washington, DC_
 + 28 - 29 [Data Science for Social Good Conference](https://dssg.uchicago.edu/data-science-for-social-good-conference-2017/) _Chicago, IL_
