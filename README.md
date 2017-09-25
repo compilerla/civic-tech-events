@@ -4,7 +4,12 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ## 2018
 
 ### May
+
 + 22-24 [Good Tech Fest](https://www.goodtechfest.com/) _Detroit, MI_ (RFP Closes 10/15/17) 
+
+### January
+
++ 24 - 26 [Sorenson Impact Center Winter Summit](http://sorensonimpact.com/winter-innovation-summit-2018-entrance/) _Salt Lake City, UT, USA
 
 ## 2017
 
@@ -29,6 +34,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 22 [ELGL Popups](http://elgl.org/elglpopups/) _Charlotte, NC; Kansas City, MO; Dallas, TX; and Portland, OR._
 + 23 [National Day of Civic Hacking](https://www.codeforamerica.org/events/national-day-of-civic-hacking-2017) _multi site, USA_
 + 24 [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) _New York City, NY_
++ 25 - 26 [Personal Democracy Forum Ukraine](https://pdfukraine.org/en/home-page/) _Kyiv, Ukraine_
 + 26 [Data Transparency 2017](https://www.eventbrite.com/e/data-transparency-2017-tickets-32659723111) _Washington, DC_
 + 28 - 29 [Data Science for Social Good Conference](https://dssg.uchicago.edu/data-science-for-social-good-conference-2017/) _Chicago, IL_
 
@@ -37,7 +43,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 3 - 4 [SRCCON](https://srccon.org/) _Minneapolis, MN_
 + [KDD](http://www.kdd.org/kdd2017/) _Halifax, Nova Scotia - Canada_
 
-## July
+### July
 
 + 25 [Library of Congress: Collections As Data](http://digitalpreservation.gov/meetings/asdata/impact.html) [#AsData](https://twitter.com/hashtag/asdata) _Washington, DC_
 
