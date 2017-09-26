@@ -9,7 +9,8 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### May
 
-+ 22-24 [Good Tech Fest](https://www.goodtechfest.com/) _Detroit, MI_ (RFP Closes 10/15/17) 
++ 17 - 18 [Engaging Local Government Leaders (EGEL) Annual Conference](http://elgl.org/2017/09/22/elgl18/) _Golden, CO, USA_
++ 22 - 24 [Good Tech Fest](https://www.goodtechfest.com/) _Detroit, MI_ (RFP Closes 10/15/17) 
 
 ### March
 
