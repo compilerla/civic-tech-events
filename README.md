@@ -50,6 +50,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 25 - 26 [Personal Democracy Forum Ukraine](https://pdfukraine.org/en/home-page/) _Kyiv, Ukraine_
 + 26 [Data Transparency 2017](https://www.eventbrite.com/e/data-transparency-2017-tickets-32659723111) _Washington, DC_
 + 28 - 29 [Data Science for Social Good Conference](https://dssg.uchicago.edu/data-science-for-social-good-conference-2017/) _Chicago, IL_
++ 28 - 30 [Smart City Expo Buenos Aires](http://smartcityexpobuenosaires.com/) _Buenos Aires, Argentina_
 
 ### August
 
