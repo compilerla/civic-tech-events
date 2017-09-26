@@ -35,6 +35,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + 5 - 6 [CityAge: Los Angeles](http://cityage.org/los-angeles/) _Los Angeles, CA, USA_
 + 11 -12 [National Human Services Data Consortium (NHSDC) Conference](http://www.nhsdc.org/) _San Diego, CA, USA_
++ 12 [Rocky Mountain High-Performance Government](http://elgl.org/2017/09/25/rocky-mountain-high-performance-government-one-day-conference/) _Denver, CO, USA_ 
 + 13 - 14 [Computation + Journalism 2017 Symposium](http://cj2017.northwestern.edu/) _Evanston, IL, USA_
 + 14 - 15 [Brigade Congress](https://cfabrigade.splashthat.com/) _Philadelphia, CA, USA_
 
