@@ -3,13 +3,21 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
             
 ## 2018
 
+### June 
+
++ 14 - 17 [Investigative Reporters & Editors (IRE)](https://www.ire.org/events-and-training/event/3190/) _Orlando, FL, USA_
+
 ### May
 
 + 22-24 [Good Tech Fest](https://www.goodtechfest.com/) _Detroit, MI_ (RFP Closes 10/15/17) 
 
+### March
+
++ 8 - 11 [Computer-Assisted Reporting Conference (2018 CAR)](https://www.ire.org/events-and-training/event/3189/) _Chicago, IL, USA_
+
 ### January
 
-+ 24 - 26 [Sorenson Impact Center Winter Summit](http://sorensonimpact.com/winter-innovation-summit-2018-entrance/) _Salt Lake City, UT, USA
++ 24 - 26 [Sorenson Impact Center Winter Summit](http://sorensonimpact.com/winter-innovation-summit-2018-entrance/) _Salt Lake City, UT, USA_
 
 ## 2017
 
@@ -24,9 +32,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### October
 
-+ 5 - 6 [CityAge: Los Angeles](http://cityage.org/los-angeles/) _Los Angeles, CA_
-+ 11 -12 [National Human Services Data Consortium (NHSDC) Conference](http://www.nhsdc.org/) _San Diego, CA_
-+ 13 - 14 [Brigade Congress](https://cfabrigade.splashthat.com/) _Philadelphia, CA_
++ 5 - 6 [CityAge: Los Angeles](http://cityage.org/los-angeles/) _Los Angeles, CA, USA_
++ 11 -12 [National Human Services Data Consortium (NHSDC) Conference](http://www.nhsdc.org/) _San Diego, CA, USA_
++ 13 - 14 [Computation + Journalism 2017 Symposium](http://cj2017.northwestern.edu/) _Evanston, IL, USA_
++ 14 - 15 [Brigade Congress](https://cfabrigade.splashthat.com/) _Philadelphia, CA, USA_
 
 ### September
 
