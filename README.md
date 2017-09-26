@@ -38,6 +38,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 12 [Rocky Mountain High-Performance Government](http://elgl.org/2017/09/25/rocky-mountain-high-performance-government-one-day-conference/) _Denver, CO, USA_ 
 + 13 - 14 [Computation + Journalism 2017 Symposium](http://cj2017.northwestern.edu/) _Evanston, IL, USA_
 + 14 - 15 [Brigade Congress](https://cfabrigade.splashthat.com/) _Philadelphia, CA, USA_
++ 22 -25 [International City/County Management Association (ICMA) Annual Conference](https://icma.org/icma-annual-conference) _San Antonio, TX, USA_
 
 ### September
 
