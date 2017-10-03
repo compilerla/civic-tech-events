@@ -146,3 +146,6 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + [Personal Democracy Forum (PDF16)](https://personaldemocracy.com/conference) New York City, NY
 + [Chief Data Officer Forum, Government](http://www.chiefdataofficergovernment.com/) Washington, DC
+
+### April
++ [Do Good Data](http://www.dogooddata.com/home) _Chicago, IL - USA_
