@@ -23,9 +23,12 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ## 2017
 
+### December
+
++ 11 - 12 [Data Transparency Lab Conference](http://datatransparencylab.org/) _Barcelona, Spain_
 ### November
 
-+ 7-8 [Harvard Summit on Data Smart Government](http://datasmart.ash.harvard.edu/news/article/save-the-date-the-harvard-summit-on-data-smart-government-1090) _Boston, MA_
++ 7 - 8 [Harvard Summit on Data Smart Government](http://datasmart.ash.harvard.edu/news/article/save-the-date-the-harvard-summit-on-data-smart-government-1090) _Boston, MA_
 + 8 [Milken Institute California Summit](http://www.milkeninstitute.org/events/conferences/summit/california-summit-2017/) _Los Angeles, CA, USA_
 + 11 - 13 [OpenCon 2017](http://www.opencon2017.org/) _Berlin, Germany_
 + 17 -19 [Data for Black Lives](http://d4bl.org/conference.html) _Boston, MA_
