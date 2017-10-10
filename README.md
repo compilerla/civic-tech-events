@@ -48,6 +48,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### September
 
++ 6 - 7 [Data for Policy](http://dataforpolicy.org/) _London_
 + 10 - 16 [#CivicTechFest](http://civictechfest.org/) _Taipei, Taiwan_
 + 18 - 19 [Sustainable Development Impact Summit](https://www.weforum.org/events/sustainable-development-impact-summit-2017) _New York City, NY, USA_
 + 22 [ELGL Popups](http://elgl.org/elglpopups/) _Charlotte, NC; Kansas City, MO; Dallas, TX; and Portland, OR._
