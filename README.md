@@ -22,6 +22,8 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ### February
 
 + 15 - 16 [Data on Purpose](http://www.ssirdata.org/) _Stanford, CA_
++ 23 - 24 [PIDapalooza](https://pidapalooza.org/) _Girona, Catalonia, Spain_
+
 ### January
 
 + 24 - 26 [Sorenson Impact Center Winter Summit](http://sorensonimpact.com/winter-innovation-summit-2018-entrance/) _Salt Lake City, UT, USA_
