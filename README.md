@@ -21,6 +21,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### February
 
++ 6 [D4GX - CPEDS Convening](https://www.bloomberg.com/company/d4gx/) _San Francisco, CA, USA_
 + 15 - 16 [Data on Purpose](http://www.ssirdata.org/) _Stanford, CA_
 + 23 - 24 [PIDapalooza](https://pidapalooza.org/) _Girona, Catalonia, Spain_
 
