@@ -17,6 +17,9 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + 8 - 11 [Computer-Assisted Reporting Conference (2018 CAR)](https://www.ire.org/events-and-training/event/3189/) _Chicago, IL, USA_
 
+### February
+
++ 15 - 16 [Data on Purpose](http://www.ssirdata.org/) _Stanford, CA_
 ### January
 
 + 24 - 26 [Sorenson Impact Center Winter Summit](http://sorensonimpact.com/winter-innovation-summit-2018-entrance/) _Salt Lake City, UT, USA_
