@@ -15,6 +15,9 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 22 - 24 [Good Tech Fest](https://www.goodtechfest.com/) _Detroit, MI_ (RFP Closes 10/15/17) 
 + 30 - 1 June [Code for America Summit](http://www.govexec.com/sponsor-content/code-america-summit-2018/) _Oakland, CA_
 
+### April 
+
++ 5 - 6 [State Healthcare IT Connect Summit](http://www.healthcareitconnect.com/2018-state-healthcare-it-connect-summit/) _Baltimore, MD_
 
 ### March
 
