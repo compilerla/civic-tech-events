@@ -21,6 +21,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### March
 
++ 7 - 9 [Service Design in Government](http://govservicedesign.net/2018/) _Edinburgh, Scotland_
 + 8 - 11 [Computer-Assisted Reporting Conference (2018 CAR)](https://www.ire.org/events-and-training/event/3189/) _Chicago, IL, USA_
 
 ### February
