@@ -13,6 +13,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 14 - 16 [OpenVis Conf](http://www.openvisconf.com/) _Paris, France_ (CFPs Closes 01/15/2018)
 + 17 - 18 [Engaging Local Government Leaders (EGEL) Annual Conference](http://elgl.org/2017/09/22/elgl18/) _Golden, CO, USA_
 + 22 - 24 [Good Tech Fest](https://www.goodtechfest.com/) _Detroit, MI_ (RFP Closes 10/15/17) 
++ 29 [CKANconUS](https://www.eventbrite.com/e/ckanconus-2018-tickets-44161195324) (CFP closes 4/20/2018) _Oakland, CA, USA_ 
 + 30 - 1 June [Code for America Summit](http://www.govexec.com/sponsor-content/code-america-summit-2018/) _Oakland, CA_
 
 ### April 
