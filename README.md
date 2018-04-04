@@ -4,7 +4,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ## 2018
 
 ### June 
-
+'+ 7 - 8 [Personal Democracy Forum 2018](https://www.pdf-18.com/) _NYC, NY, USA_
 + 14 - 17 [Investigative Reporters & Editors (IRE)](https://www.ire.org/events-and-training/event/3190/) _Orlando, FL, USA_
 
 ### May
