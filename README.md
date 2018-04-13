@@ -3,8 +3,15 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
             
 ## 2018
 
+### August
+
++ 3 - 5 [WakandaCon](https://wakandacon2018.com/) _Chicago, IL, USA_
+
+### July
+
 ### June 
-'+ 7 - 8 [Personal Democracy Forum 2018](https://www.pdf-18.com/) _NYC, NY, USA_
+
++ 7 - 8 [Personal Democracy Forum 2018](https://www.pdf-18.com/) _NYC, NY, USA_
 + 14 - 17 [Investigative Reporters & Editors (IRE)](https://www.ire.org/events-and-training/event/3190/) _Orlando, FL, USA_
 
 ### May
@@ -19,6 +26,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ### April 
 
 + 5 - 6 [State Healthcare IT Connect Summit](http://www.healthcareitconnect.com/2018-state-healthcare-it-connect-summit/) _Baltimore, MD_
++ 18 - 19 [TICTeC 2018](http://tictec.mysociety.org/2018) _Lisbon, Portugal_
 
 ### March
 
