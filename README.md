@@ -3,6 +3,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
             
 ## 2018
 
+### September
+
++ 16 [Data for Good Exchange](https://www.bloomberg.com/company/d4gx)(CFP closes 7/1/2018) _NYC, NY, USA_
+
 ### August
 
 + 3 - 5 [WakandaCon](https://wakandacon2018.com/) _Chicago, IL, USA_
