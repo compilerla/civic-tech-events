@@ -3,6 +3,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
             
 ## 2018
 
+### October
+
++ 5 - 7 [g0v Summit 2018](http://summit.g0v.tw/2018/) (CFP closes 6/30/2018) _Taipei City, Taiwan_
+
 ### September
 
 + 16 [Data for Good Exchange](https://www.bloomberg.com/company/d4gx)(CFP closes 7/1/2018) _NYC, NY, USA_
