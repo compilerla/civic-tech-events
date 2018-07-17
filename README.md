@@ -41,6 +41,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 7 - 9 [Federal Committee on Statisitcal Methodology 2018 Research and Policy Conference](https://nces.ed.gov/FCSM/2018_research.asp) [#FCSM2018 on Twitter](https://twitter.com/hashtag/FCSM2018?src=hash) _Washington, DC, USA_
 + 7 - 9 [Service Design in Government](http://govservicedesign.net/2018/) _Edinburgh, Scotland_
 + 8 - 11 [Computer-Assisted Reporting Conference (2018 CAR)](https://www.ire.org/events-and-training/event/3189/) _Chicago, IL, USA_
++ 20 -22 [Cities 4.0 Summit](http://www.cities4pointzero.com.au/) _Melbourne, Australia_
 
 ### February
 
