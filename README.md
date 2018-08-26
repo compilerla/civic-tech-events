@@ -1,25 +1,46 @@
 # civic-tech-events
 Ongoing list of civic tech or gov tech events. Includes previous and past events, personal focus on data and data standards. Please submit a pull request! Hope to turn this into a small app that allows for subsciption to updates and submission deadlines for conferences.
             
+## 2019
+
+### February
+
++ 6 - 8 [Sorenson Winter Impact Summit](https://sorensonimpact.com/2019-winter-innovation-summit) _Salt Lake City, UT, USA_
+
 ## 2018
+
+### November 
+
++ 7 - 10 [National League of Cities: City Summit Los Angeles](http://citysummit.nlc.org/) _Los Angeles, CA, USA_
++ 8 - 9 [Social Innovation Research Institute: Society 4.0](https://www.eventbrite.com.au/e/society-40-industry-social-systems-workers-citizens-in-the-digital-revolution-tickets-47804005066) _Melbourne, Australia_
++ 19 - 21 [National Digital Forum](http://www.ndf.org.nz/ndf-this-year/) _Wellington, New Zealand_
 
 ### October
 
 + 5 - 7 [g0v Summit 2018](http://summit.g0v.tw/2018/) (CFP closes 6/30/2018) _Taipei City, Taiwan_
++ 23 - 26 [SOCAP18](http://socialcapitalmarkets.net/socap18/) _San Francisco, CA, USA_
 
 ### September
 
++ 7 [Hack-a-House](https://ivory-innovations.org/hackahouse) _Salt Lake City, UT, USA_
 + 16 [Data for Good Exchange](https://www.bloomberg.com/company/d4gx)(CFP closes 7/1/2018) _NYC, NY, USA_
 
 ### August
 
 + 3 - 5 [WakandaCon](https://wakandacon2018.com/) _Chicago, IL, USA_
++ 20 [Data Science for Digital Art History](http://dsdah2018.blogs.dsv.su.se/) _London, UK_
++ 28 - 29 [Los Angeles Digital Government Summit 2018](http://www.govtech.com/events/Los-Angeles-Digital-Government-Summit.html) _Los Angeles, CA, USA_
++ 29 - 31 [Linux Foundation: Open Source Summit 2018](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/) _Vancouver, Canada_ 
 
 ### July
 
++ 29 - August 1 [Association for Commuter Transportation's 2018 International Conference](http://www.actconf.org/) _Anaheim, CA, USA_
+
 ### June 
 
++ 6 [Updtate Data Summit](https://dataupstate.org/summit/) _Syracuse, NY, USA_
 + 7 - 8 [Personal Democracy Forum 2018](https://www.pdf-18.com/) _NYC, NY, USA_
++ 13 - 14 [Horizons: A Vision for Economic Advancement](http://horizons.jff.org/index.html) _New Orleans, LA, USA_
 + 14 - 17 [Investigative Reporters & Editors (IRE)](https://www.ire.org/events-and-training/event/3190/) _Orlando, FL, USA_
 
 ### May
@@ -30,6 +51,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 22 - 24 [Good Tech Fest](https://www.goodtechfest.com/) _Detroit, MI_ (RFP Closes 10/15/17) 
 + 29 [CKANconUS](https://www.eventbrite.com/e/ckanconus-2018-tickets-44161195324) (CFP closes 4/20/2018) _Oakland, CA, USA_ 
 + 30 - 1 June [Code for America Summit](http://www.govexec.com/sponsor-content/code-america-summit-2018/) _Oakland, CA_
++ 30 - 1 June [CarpentryCon 2018](http://www.carpentrycon.org/) _Dublin, Ireland_
 
 ### April 
 
