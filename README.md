@@ -24,6 +24,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + 7 [Hack-a-House](https://ivory-innovations.org/hackahouse) _Salt Lake City, UT, USA_
 + 16 [Data for Good Exchange](https://www.bloomberg.com/company/d4gx)(CFP closes 7/1/2018) _NYC, NY, USA_
++ 27 - 28 [OpenDataCon](https://www.opendatacon.org/) _Buenos Aires, Argentina_
 
 ### August
 
