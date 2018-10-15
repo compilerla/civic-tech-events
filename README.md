@@ -19,6 +19,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ### October
 
 + 5 - 7 [g0v Summit 2018](http://summit.g0v.tw/2018/) (CFP closes 6/30/2018) _Taipei City, Taiwan_
++ 12 - 13 [Public Interest Technology Summit by digital HKS](https://projects.iq.harvard.edu/digitalhks) _Cambridge, MA_ 
 + 23 - 26 [SOCAP18](http://socialcapitalmarkets.net/socap18/) _San Francisco, CA, USA_
 
 ### September
