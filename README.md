@@ -12,6 +12,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### November 
 
++ 2 - 4 [OpenCon 2018](https://www.opencon2018.org/) _Toronto, ON, Canada_
 + 7 - 10 [National League of Cities: City Summit Los Angeles](http://citysummit.nlc.org/) _Los Angeles, CA, USA_
 + 8 - 9 [Social Innovation Research Institute: Society 4.0](https://www.eventbrite.com.au/e/society-40-industry-social-systems-workers-citizens-in-the-digital-revolution-tickets-47804005066) _Melbourne, Australia_
 + 19 - 21 [National Digital Forum](http://www.ndf.org.nz/ndf-this-year/) _Wellington, New Zealand_
