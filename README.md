@@ -3,6 +3,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
             
 ## 2019
 
+### May
+
++ 8 - 9 [csv,conf,v4[(https://csvconf.com/)_Portland, OR, USA
+
 ### February
 
 + 6 - 8 [Sorenson Winter Impact Summit](https://sorensonimpact.com/2019-winter-innovation-summit) _Salt Lake City, UT, USA_
