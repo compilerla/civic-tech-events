@@ -12,6 +12,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 6 - 8 [Sorenson Winter Impact Summit](https://sorensonimpact.com/2019-winter-innovation-summit) _Salt Lake City, UT, USA_
 + 19 - 20 [Data on Purpose](http://www.ssirdata.org/) _Stanford, CA_
 
+### January
+
++ 19 [Transportation Camp DC](http://transportationcamp.org/events/dc2019/) _Arlington, VA, USA_
+
 ## 2018
 
 ### November 
