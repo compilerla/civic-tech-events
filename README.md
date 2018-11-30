@@ -5,7 +5,8 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### May
 
-+ 8 - 9 [csv,conf,v4[(https://csvconf.com/)_Portland, OR, USA
++ 8 - 9 [csv,conf,v4](https://csvconf.com/) _Portland, OR, USA_
++ 29 – 31 [Code for America Summit](https://www.codeforamerica.org/summit2019) _Oakland, CA, USA_
 
 ### February
 
