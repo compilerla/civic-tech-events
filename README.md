@@ -5,7 +5,8 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### May
 
-+ 8 - 9 [csv,conf,v4[(https://csvconf.com/)_Portland, OR, USA
++ 8 - 9 [csv,conf,v4](https://csvconf.com/)_Portland, OR, USA
++ 21 -23 [Good Tech Fest](https://www.goodtechfest.com/) _Chicago, IL, USA_
 
 ### February
 
