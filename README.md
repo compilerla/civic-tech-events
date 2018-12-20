@@ -12,6 +12,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 8 - 9 [csv,conf,v4](https://csvconf.com/)_Portland, OR, USA
 + 21 -23 [Good Tech Fest](https://www.goodtechfest.com/) _Chicago, IL, USA_
 
+### March 
+
++ 19 - 20 [The Impacts of Civic Technology Conference (TICTeC)](https://tictec.mysociety.org/) _Paris, France_
+
 ### February
 
 + 6 - 8 [Sorenson Winter Impact Summit](https://sorensonimpact.com/2019-winter-innovation-summit) _Salt Lake City, UT, USA_
