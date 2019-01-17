@@ -7,6 +7,11 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + 14 - 16 [LA CoMotion](https://www.lacomotion.com/) _Los Angeles, CA, USA_
 
+### September
+
++ 21 [Code For America National Day of Civic Hacking](https://www.codeforamerica.org/national-day-of-civic-hacking) _USA_
+
+
 ### May
 
 + 8 - 9 [csv,conf,v4](https://csvconf.com/)_Portland, OR, USA
