@@ -11,6 +11,8 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + 8 - 9 [csv,conf,v4](https://csvconf.com/)_Portland, OR, USA
 + 21 -23 [Good Tech Fest](https://www.goodtechfest.com/) _Chicago, IL, USA_
++ 29 - 31 [Code for America Summit](https://www.codeforamerica.org/events/summit) _Oakland, CA, USA_
++ 29 - 31 [Open Government Partnership Global Summit 2019](https://ogpsummit.org/en/) _Ottawa, Canada_
 
 ### March 
 
