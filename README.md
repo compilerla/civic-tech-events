@@ -27,7 +27,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ### January
 
 + 19 [Transportation Camp DC](http://transportationcamp.org/events/dc2019/) _Arlington, VA, USA_ 
-+ 31 - 1 [School of Data LA](https://http://schoolofdata.la/) _Los Angeles, CA, USA_
++ 31 - 1 [School of Data LA](https://schoolofdata.la/) _Los Angeles, CA, USA_
 
 ## 2018
 
