@@ -19,6 +19,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 29 - 31 [Code for America Summit](https://www.codeforamerica.org/events/summit) _Oakland, CA, USA_
 + 29 - 31 [Open Government Partnership Global Summit 2019](https://ogpsummit.org/en/) _Ottawa, Canada_
 
+### April 
+
++ 6 [DotGov 2019](https://dc.aiga.org/programs-initiatives/dotgovdesign/) (CFP Closes 2/25/2019) _Alexandria, VA, USA_
+
 ### March 
 
 + 2 [School of Data NYC](https://schoolofdata.nyc/) _New York City, NY, USA_
