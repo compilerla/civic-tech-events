@@ -11,6 +11,9 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + 25 -27 [MyData 2019](https://mydata.org/mydata-2019-cfp/) (CFP closes 3/31/2019) _Helsinki, Finland_
 
+### August
+
++ 27 - 28 [Los Angeles Digital Government Summit](http://events.govtech.com/Los-Angeles-Digital-Government-Summit.html) _Los Angeles, CA, USA_
 ### May
 
 + 8 - 9 [csv,conf,v4](https://csvconf.com/) _Portland, OR, USA_
