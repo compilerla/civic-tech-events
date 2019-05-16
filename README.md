@@ -9,6 +9,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### September
 
++ 19 [Bloomberg D4Gx] [Call for Papers](https://data.bloomberglp.com/promo/sites/12/471569_DataForGoodExchangeCallForPapers.pdf) _New York City, NY, USA_
 + 25 -27 [MyData 2019](https://mydata.org/mydata-2019-cfp/) (CFP closes 3/31/2019) _Helsinki, Finland_
 
 ### August
