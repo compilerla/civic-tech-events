@@ -14,7 +14,9 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### August
 
++ 22 - 23 [Water Data Summit](https://www.cawaterdatasummit.org/) _Davis, CA, USA_
 + 27 - 28 [Los Angeles Digital Government Summit](http://events.govtech.com/Los-Angeles-Digital-Government-Summit.html) _Los Angeles, CA, USA_
+
 ### May
 
 + 8 - 9 [csv,conf,v4](https://csvconf.com/) _Portland, OR, USA_
