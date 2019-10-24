@@ -5,6 +5,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### November
 
++ 8 [Data Governance Design](https://www.eventbrite.com/e/data-governance-design-conference-tickets-74693168277) _Washington, DC, USA_ Free.
 + 14 - 16 [LA CoMotion](https://www.lacomotion.com/) _Los Angeles, CA, USA_
 
 ### September
