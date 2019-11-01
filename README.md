@@ -6,9 +6,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ### November
 
 + 7 [The Color of Surveillance: Monitoring of Poor and Working People](https://www.eventbrite.com/e/the-color-of-surveillance-monitoring-of-poor-and-working-people-tickets-67764859519) _Washington, DC, USA_
++ 7 - 9 [Who Owns the World? The State of Platform Cooperativism](https://platform.coop/events/conference-2019/) _New York City, NY, USA_
 + 8 [Data Governance Design](https://www.eventbrite.com/e/data-governance-design-conference-tickets-74693168277) _Washington, DC, USA_ Free.
 + 14 - 16 [LA CoMotion](https://www.lacomotion.com/) _Los Angeles, CA, USA_
-+ 25 [Citizens and Technology Summit 2019](https://www.eventbrite.com/e/citizens-and-technology-summit-2019-registration-75978536849) _New York, NY_
++ 25 [Citizens and Technology Summit 2019](https://www.eventbrite.com/e/citizens-and-technology-summit-2019-registration-75978536849) _New York, NY, USA_
 
 ### September
 
