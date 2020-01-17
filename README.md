@@ -7,6 +7,9 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + 3 [LITCon2020: Suffolk's Annual Legal Innovation & Tech Conference](https://suffolklitlab.org/) _Boston, MA, USA_
 
+### January
++ 15 - 17 [Legal Services Corporation Innovations in Technology Conference](https://www.lsc.gov/meetings-and-events/tech-conference) _Portland, OR, USA_
+
 ## 2019
 
 ### November
