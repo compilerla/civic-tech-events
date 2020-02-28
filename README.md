@@ -15,6 +15,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ### March
 
 + 3 [LITCon2020: Suffolk's Annual Legal Innovation & Tech Conference](https://suffolklitlab.org/) _Boston, MA, USA_
++ 5 - 8 [NICAR Conference](https://www.ire.org/events-and-training/conferences/nicar-2020) _New Orleans, LA, USA_
 + 11 - 13 [Code for America Summit](https://www.codeforamerica.org/summit) _Washington, DC, USA_
 + 13 [Logout!2: Workers Confronting Digital Capitalism](https://www.mcluhancentre.ca/logout2) _Toronto, Ontario, Canada_
 
