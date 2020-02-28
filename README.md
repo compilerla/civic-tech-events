@@ -3,6 +3,11 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
             
 ## 2020
 
+### December
+
++ 11 - 13 (Data for Black Lives III)[http://d4bl.org/]: (CFP Due 3/31/2020)[https://d4bl.typeform.com/to/LijzJJ]_Cambridge, MA, USA_
+
+
 ### May
 
 + 19 - 21 [Good Tech Fest](https://www.goodtechfest.com/) _Chicago, IL, USA_
