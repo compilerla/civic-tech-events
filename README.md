@@ -46,6 +46,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ### March 
 
 + 2 [School of Data NYC](https://schoolofdata.nyc/) _New York City, NY, USA_
++ 10 - 12 [City Launch San Diego](https://connectedcc.org/) _San Diego, CA, USA_
 + 6 [LOG OUT! Worker Resistance Within and Against the Platform Economy](https://www.mcluhancentre.ca/logout) _Toronto, Ontario, Canada_
 + 19 - 20 [The Impacts of Civic Technology Conference (TICTeC)](https://tictec.mysociety.org/) _Paris, France_
 
