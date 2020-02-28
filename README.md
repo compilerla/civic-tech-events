@@ -3,6 +3,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
             
 ## 2020
 
+### May
+
++ 19 - 21 [Good Tech Fest](https://www.goodtechfest.com/) _Chicago, IL, USA_
+
 ### March
 
 + 3 [LITCon2020: Suffolk's Annual Legal Innovation & Tech Conference](https://suffolklitlab.org/) _Boston, MA, USA_
