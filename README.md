@@ -1,12 +1,53 @@
 # civic-tech-events
 Ongoing list of civic tech or gov tech events. Includes previous and past events, personal focus on data and data standards. Please submit a pull request! Hope to turn this into a small app that allows for subsciption to updates and submission deadlines for conferences.
             
+## 2020
+
+### March
+
++ 3 [LITCon2020: Suffolk's Annual Legal Innovation & Tech Conference](https://suffolklitlab.org/) _Boston, MA, USA_
++ 13 [Logout!2: Workers Confronting Digital Capitalism](https://www.mcluhancentre.ca/logout2) _Toronto, Ontario, Canada_
+
+### January
++ 15 - 17 [Legal Services Corporation Innovations in Technology Conference](https://www.lsc.gov/meetings-and-events/tech-conference) _Portland, OR, USA_
+
 ## 2019
+
+### November
+
++ 7 [The Color of Surveillance: Monitoring of Poor and Working People](https://www.eventbrite.com/e/the-color-of-surveillance-monitoring-of-poor-and-working-people-tickets-67764859519) _Washington, DC, USA_
++ 7 - 9 [Who Owns the World? The State of Platform Cooperativism](https://platform.coop/events/conference-2019/) _New York City, NY, USA_
++ 8 [Data Governance Design](https://www.eventbrite.com/e/data-governance-design-conference-tickets-74693168277) _Washington, DC, USA_ Free.
++ 14 - 16 [LA CoMotion](https://www.lacomotion.com/) _Los Angeles, CA, USA_
++ 25 [Citizens and Technology Summit 2019](https://www.eventbrite.com/e/citizens-and-technology-summit-2019-registration-75978536849) _New York, NY, USA_
+
+### September
+
++ 19 [Bloomberg D4Gx] [Call for Papers](https://data.bloomberglp.com/promo/sites/12/471569_DataForGoodExchangeCallForPapers.pdf) _New York City, NY, USA_
++ 25 -27 [MyData 2019](https://mydata.org/mydata-2019-cfp/) (CFP closes 3/31/2019) _Helsinki, Finland_
+
+### August
+
++ 22 - 23 [Water Data Summit](https://www.cawaterdatasummit.org/) _Davis, CA, USA_
++ 27 - 28 [Los Angeles Digital Government Summit](http://events.govtech.com/Los-Angeles-Digital-Government-Summit.html) _Los Angeles, CA, USA_
 
 ### May
 
 + 8 - 9 [csv,conf,v4](https://csvconf.com/) _Portland, OR, USA_
++ 8 - 10 [State of Technology & Standards in Higher Education](http://www.cvent.com/events/pesc-spring-2019-data-summit/event-summary-e40ad4a1fbf74088bfa6eb04a7df47a1.aspx?i=57aa8b02-cf35-4b6b-bf31-ed7e2df06f8c) _Washington, DC, USA_
++ 21 -23 [Good Tech Fest](https://www.goodtechfest.com/) _Chicago, IL, USA_
 + 29 – 31 [Code for America Summit](https://www.codeforamerica.org/summit2019) _Oakland, CA, USA_
++ 29 - 31 [Open Government Partnership Global Summit 2019](https://ogpsummit.org/en/) _Ottawa, Canada_
+
+### April 
+
++ 6 [DotGov 2019](https://dc.aiga.org/programs-initiatives/dotgovdesign/) (CFP Closes 2/25/2019) _Alexandria, VA, USA_
+
+### March 
+
++ 2 [School of Data NYC](https://schoolofdata.nyc/) _New York City, NY, USA_
++ 6 [LOG OUT! Worker Resistance Within and Against the Platform Economy](https://www.mcluhancentre.ca/logout) _Toronto, Ontario, Canada_
++ 19 - 20 [The Impacts of Civic Technology Conference (TICTeC)](https://tictec.mysociety.org/) _Paris, France_
 
 ### February
 
@@ -15,7 +56,8 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### January
 
-+ 19 [Transportation Camp DC](http://transportationcamp.org/events/dc2019/) _Arlington, VA, USA_
++ 19 [Transportation Camp DC](http://transportationcamp.org/events/dc2019/) _Arlington, VA, USA_ 
++ 31 - 1 [School of Data LA](https://schoolofdata.la/) _Los Angeles, CA, USA_
 
 ## 2018
 
