@@ -20,6 +20,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 + 11 - 13 [Code for America Summit](https://www.codeforamerica.org/summit) _Washington, DC, USA_
 + 13 [Logout!2: Workers Confronting Digital Capitalism](https://www.mcluhancentre.ca/logout2) _Toronto, Ontario, Canada_
 
+### February
+
++ 4 - 5 [Southern California Healthcare Innovation Summit](https://endeavor.swoogo.com/summit_series/Southern_California)
+
 ### January
 + 15 - 17 [Legal Services Corporation Innovations in Technology Conference](https://www.lsc.gov/meetings-and-events/tech-conference) _Portland, OR, USA_
 
