@@ -11,6 +11,7 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 ### May
 
 + 19 - 21 [Good Tech Fest](https://www.goodtechfest.com/) _Chicago, IL, USA_
++ 2 [Reboot American Innovation Conference](https://lincolnpolicy.org/2019/reboot-american-innovation/) _Washington, DC, USA_
 + 5 - 6 [National Human Services Data Consortium (NHSDC) Spring Conference](https://nhsdc.org/conferences/) _online_
 
 ### March
