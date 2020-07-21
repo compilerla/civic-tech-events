@@ -7,6 +7,9 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + 11 - 13 (Data for Black Lives III)[http://d4bl.org/]: (CFP Due 3/31/2020)[https://d4bl.typeform.com/to/LijzJJ]_Cambridge, MA, USA_
 
+### August
+
++ 24 - 28 [International Legal Technology Associateion (ILTA) On](https://www.iltaon.org/) _online_
 
 ### May
 
