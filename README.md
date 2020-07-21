@@ -11,6 +11,10 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 + 24 - 28 [International Legal Technology Associateion (ILTA) On](https://www.iltaon.org/) _online_
 
+### July
+
++ 24 [The 7th Annual Access to Justice Conference:Transforming Legal Incubators and Virtual Law Practice](https://www.connect.purdueglobal.edu/cls) _online_
+
 ### May
 
 + 19 - 21 [Good Tech Fest](https://www.goodtechfest.com/) _Chicago, IL, USA_
