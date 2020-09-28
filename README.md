@@ -5,7 +5,11 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### December
 
-+ 11 - 13 (Data for Black Lives III)[http://d4bl.org/]: (CFP Due 3/31/2020)[https://d4bl.typeform.com/to/LijzJJ]_Cambridge, MA, USA_
++ 11 - 13 [Data for Black Lives III](http://d4bl.org/): [CFP Due 3/31/2020](https://d4bl.typeform.com/to/LijzJJ) _Cambridge, MA, USA_
+
+### October
+
++ 11 [Hack Hate 2020](https://hackhate.org) _online, free, open, data-driven hackathon against hate crime_
 
 ### August
 
